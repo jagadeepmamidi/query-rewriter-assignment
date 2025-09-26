@@ -1,0 +1,5 @@
+pandas
+bert-score
+rouge-score
+torch
+transformers

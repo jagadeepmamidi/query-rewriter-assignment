@@ -1,0 +1,26 @@
+[
+    {
+        "user_id": "user_101",
+        "original": "how to read a file",
+        "ground_truth": "how to read a file in python with performance in mind",
+        "generated": "how to read a file python api backend performance docker"
+    },
+    {
+        "user_id": "user_101",
+        "original": "best way to build a web service",
+        "ground_truth": "best way to build a python backend api with docker",
+        "generated": "best way to build a web service python api backend performance docker"
+    },
+    {
+        "user_id": "user_102",
+        "original": "clean up my dataset",
+        "ground_truth": "how to clean up a dataset using pandas",
+        "generated": "clean up my dataset pandas sql statistics visualization matplotlib"
+    },
+    {
+        "user_id": "user_102",
+        "original": "show trends in sales data",
+        "ground_truth": "how to show trends in sales data with matplotlib visualization",
+        "generated": "show trends in sales data pandas sql statistics visualization matplotlib"
+    }
+]

@@ -1,0 +1,5 @@
+original_query,generated_rewrite,ground_truth,bert_f1,rouge_l,qualitative_score
+how to read a file,how to read a file python api backend performance docker,how to read a file in python with performance in mind,0.9115950465202332,0.6666666666666666,3
+best way to build a web service,best way to build a web service python api backend performance docker,best way to build a python backend api with docker,0.9424617886543274,0.7272727272727272,3
+clean up my dataset,clean up my dataset pandas sql statistics visualization matplotlib,how to clean up a dataset using pandas,0.8705074191093445,0.47058823529411764,2
+show trends in sales data,show trends in sales data pandas sql statistics visualization matplotlib,how to show trends in sales data with matplotlib visualization,0.9153417348861694,0.6,3
