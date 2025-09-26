@@ -85,4 +85,4 @@ The system achieved the following average scores:
 - **Average ROUGE-L Score:** 0.6161
 - **Average Qualitative Score:** 2.7500
 
-These results indicate that the simple, rule-based rewriting logic is effective at incorporating user preferences and aligns well with the semantic meaning of the ideal rewrites. The high qualitative score suggests the personalization was consistently applied.
+These results indicate that the simple, rule-based rewriting logic is effective at incorporating user preferences and aligns well with the semantic meaning of the ideal rewrites. The high qualitative score suggests the personalization was consistently applied through the process.
